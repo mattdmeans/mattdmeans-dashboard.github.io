@@ -12,7 +12,7 @@ author: Matthew Means
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Data Scientist familiar with the gathering, mining, and organizing data for the use of technical and non-technical work. Proficient understanding of statistical, algebraic, and other analytical techniques. Highly motivated, and diligent with background in Python, Data Wrangling, Databases, PostgreSQL, Data Visualizations, Machine Learning, and Computer Science"
+  About Me: "aboutme"
   
 
 # --- Logo --- #
