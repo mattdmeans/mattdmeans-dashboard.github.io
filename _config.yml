@@ -36,8 +36,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "matthewdmeans@gmail.com"
-  github: "https://github.com/mattdmeans"
-  linkedin: "https://www.linkedin.com/in/matt-means/"
+  github: mattdmeans
+  linkedin: matt-means
+  rss: False
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
